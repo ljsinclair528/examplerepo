@@ -1,0 +1,15 @@
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\bin\Debug\net9.0\lab2.exe
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\bin\Debug\net9.0\lab2.deps.json
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\bin\Debug\net9.0\lab2.runtimeconfig.json
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\bin\Debug\net9.0\lab2.dll
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\bin\Debug\net9.0\lab2.pdb
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.AssemblyInfoInputs.cache
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.AssemblyInfo.cs
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.sourcelink.json
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.dll
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\refint\lab2.dll
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.pdb
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\lab2.genruntimeconfig.cache
+C:\Users\LJS\OneDrive\mis2025\mis221\lab2\obj\Debug\net9.0\ref\lab2.dll
